@@ -16,3 +16,11 @@ the command to run it is
 ```bash
 zig build run
 ```
+
+## testing
+make sure the file has tests then run the test with this command
+```bash
+zig test <path to the file>
+```
+
+
